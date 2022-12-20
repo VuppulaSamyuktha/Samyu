@@ -35,6 +35,8 @@ public class Cartpage {
 		//actions.moveToElement(check);
 		check.click();
 		Thread.sleep(2000);
+		check.click();
+		Thread.sleep(2000);
 	}
 }
 
